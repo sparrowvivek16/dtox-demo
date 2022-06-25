@@ -21,3 +21,5 @@ fields:
       format: markdown
   label: Content
   description: text content of the blog
+pages:
+- content/new-deploy.md
