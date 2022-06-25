@@ -3,17 +3,19 @@ languageCode = "en-us"
 theme = "dtox-hugo"
 title = "Intelops"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
 URL = "#pricing"
 name = "Pricing"
-weight = 4
+parent = "Service"
+weight = 2
 [[menu.main]]
 URL = "#team"
 name = "Team"
-weight = 3
+parent = "Service"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
 URL = "service"
 name = "Service"
@@ -21,7 +23,7 @@ weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 5
+weight = 3
 [[menu.main]]
 URL = "#feature"
 name = "Feature"
