@@ -3,6 +3,9 @@ content = "To test this feature and to add new page this demo content is added v
 date = 2022-06-24T18:30:00Z
 draft = true
 title = "CD/CI Deployment"
+[menu.main]
+name = "Blog"
+weight = 7
 
 +++
 # CD/CI Deployment
