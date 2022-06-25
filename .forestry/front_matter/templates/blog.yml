@@ -11,3 +11,13 @@ fields:
 - type: text
   name: description
   label: description
+- name: content
+  type: textarea
+  default: Example content
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Content
+  description: text content of the blog
