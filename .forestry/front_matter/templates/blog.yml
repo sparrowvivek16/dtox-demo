@@ -30,3 +30,5 @@ fields:
     min: 150
   label: Content
   description: blog content
+pages:
+- content/cd-ci-deployment.md
