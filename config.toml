@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://intelops.netlify.app"
 languageCode = "en-us"
 title = "Intelops"
 theme = "dtox-hugo"
