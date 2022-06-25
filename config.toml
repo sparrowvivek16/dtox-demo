@@ -5,17 +5,15 @@ title = "Intelops"
 [[menu.main]]
 URL = "#pricing"
 name = "Pricing"
-parent = "Service"
-weight = 2
+weight = 4
 [[menu.main]]
 URL = "#team"
 name = "Team"
-parent = "Service"
-weight = 1
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 6
 [[menu.main]]
 URL = "service"
 name = "Service"
@@ -23,7 +21,7 @@ weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 3
+weight = 5
 [[menu.main]]
 URL = "#feature"
 name = "Feature"
