@@ -5,3 +5,6 @@ draft = true
 title = "CD/CI Deployment"
 
 +++
+# CD/CI Deployment
+*25/06/2022*
+To test this feature and to add new page this demo content is added via forestry. No actual code is written. All changes are committed to GitHub which then triggers netlify to deploy the changes.
