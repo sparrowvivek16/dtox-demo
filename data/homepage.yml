@@ -8,21 +8,25 @@ feature:
     - title : "Awesome Design"
       icon : "ti-ruler-pencil"
       content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      animate: "fade-right"
       
     # feature item
     - title : "Easy Customize"
       icon : "ti-layout-cta-left"
       content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      animate: "fade-left"
       
     # feature item
     - title : "Bug free Code"
       icon : "ti-split-v-alt"
       content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      animate: "fade-right"
       
-    # feature item
+    # feature item2
     - title : "Organized Layouts"
       icon : "ti-layers-alt"
       content : "Consectetur adipiscing elit donec tempus pellentesque dui."
+      animate: "fade-left"
 
 # Marketing section
 marketing:
@@ -110,6 +114,7 @@ pricing:
       content : "Far far away, behind the wordmountains, far from the countries Vokalia and"
       btnText : "Get Started"
       URL : "#"
+      animate: "flip-left"
       
     # pricing table
     - title : "Standard"
@@ -117,6 +122,7 @@ pricing:
       content : "Far far away, behind the wordmountains, far from the countries Vokalia and"
       btnText : "Get Started"
       URL : "#"
+      animate: "flip-up"
       
     # pricing table
     - title : "Premium"
@@ -124,6 +130,7 @@ pricing:
       content : "Far far away, behind the wordmountains, far from the countries Vokalia and"
       btnText : "Get Started"
       URL : "#"
+      animate: "flip-right"
 
 # client logo slider
 clientSlider:

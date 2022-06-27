@@ -6,6 +6,11 @@
     $('.preloader').fadeOut(100);
   });
 
+  //AOS animation
+  AOS.init({
+    anchorPlacement: "top-center",
+    duration: 1500
+  });
   // Sticky Menu
   $(window).scroll(function () {
     if ($('.navigation').offset().top > 100) {
