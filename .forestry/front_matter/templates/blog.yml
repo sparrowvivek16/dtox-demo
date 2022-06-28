@@ -32,3 +32,4 @@ fields:
   description: blog content
 pages:
 - content/cd-ci-deployment.md
+- content/service/testing-new-page.md
